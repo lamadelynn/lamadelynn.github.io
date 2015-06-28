@@ -1,0 +1,49 @@
+/*Just using this file to keep CSS code*/
+@font-face {
+  font-family: 'HuxleeVertical';
+  src: url('HuxleeVertical.eot');
+  src: url('HuxleeVertical.eot?#iefix') format('embedded-opentype'),
+       url('HuxleeVertical.woff2') format('woff2'),
+       url('HuxleeVertical.woff') format('woff'),
+       url('HuxleeVertical.ttf') format('truetype'),
+       url('HuxleeVertical.svg#HuxleeVertical') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Komoda-Regular';
+  src: url('Komoda-Regular.eot');
+  src: url('Komoda-Regular.eot?#iefix') format('embedded-opentype'),
+       url('Komoda-Regular.woff2') format('woff2'),
+       url('Komoda-Regular.woff') format('woff'),
+       url('Komoda-Regular.ttf') format('truetype'),
+       url('Komoda-Regular.svg#Komoda-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Zingende-Regular';
+  src: url('Zingende-Regular.eot');
+  src: url('Zingende-Regular.eot?#iefix') format('embedded-opentype'),
+       url('Zingende-Regular.woff2') format('woff2'),
+       url('Zingende-Regular.woff') format('woff'),
+       url('Zingende-Regular.ttf') format('truetype'),
+       url('Zingende-Regular.svg#Zingende-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Zingende-Light';
+  src: url('Zingende-Light.eot');
+  src: url('Zingende-Light.eot?#iefix') format('embedded-opentype'),
+       url('Zingende-Light.woff2') format('woff2'),
+       url('Zingende-Light.woff') format('woff'),
+       url('Zingende-Light.ttf') format('truetype'),
+       url('Zingende-Light.svg#Zingende-Light') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
