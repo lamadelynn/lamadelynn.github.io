@@ -1,1 +1,1 @@
-# lamadelynn.github.io
+My personal website: <a href="http://www.lamadelynn.com">lamadelynn.com</a>
